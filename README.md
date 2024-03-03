@@ -6,7 +6,17 @@ Facial Emotion Analysis Web Application for Australscience
 
 In my role as a Web Developer Intern at Australscience in Sydney, NSW, Australia, I am responsible for enhancing and integrating new features into their web application.
 
-My contributions included integrating facial emotion analysis functionality into the existing React and Django-based platform. I was responsible for implementing an API, securing user authentication via JWT, configuring Cross-Origin Resource Sharing (CORS), and managing server deployment through Digital Ocean using SSH. Furthermore, I personalized the front-end by writing additional HTML, CSS, and JavaScript code, ensuring a tailored and user-centric experience.
+My contributions included integrating Facial Emotion Analysis functionality into the existing React and Django-based platform. Specifically, I:
+* Integrated facial emotion analysis functionality into the existing React and Django-based platform.
+* Developed new React modules.
+* Managed the database.
+* Implemented an API with Restframework.
+* Secured user authentication via JWT.
+* Configured Cross-Origin Resource Sharing (CORS).
+* Managed server deployment through Digital Ocean using SSH.
+* Personalized the front-end by writing additional HTML, CSS, and JavaScript code, ensuring a tailored and user-centric experience.
+
+
 
 Below are a glance of the website:
 
